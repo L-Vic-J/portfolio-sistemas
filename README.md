@@ -13,7 +13,10 @@ relacionados con sistemas, redes y programación.
   Programa que implementa distintas estrcuturas, como pilas, colas, listas enlazadas dobles y simples en 4 casos diferentes.
 
 - https://github.com/L-Vic-J/juego-adivinar-arbol-binario.git
-  Programa que simula un juego de adivinanza de números, utililizando un arbol binario como su estructura
+  Programa que simula un juego de adivinanza de números, utililizando un arbol binario de busqueda como su estructura.
+
+- https://github.com/L-Vic-J/caso-estudio-estructuras-datos.git
+  Programa que implementa el uso de lista enlazada doble circular y un arbol binario de busqueda para la gestión de estudiantes y libros.
 
  ## Redes
 
